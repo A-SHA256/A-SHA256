@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi there , my name is Arsan👋
 
-<!--
-**A-SHA256/A-SHA256** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Skills:
+1. Python
+2. Bash scripting
+3. SQL
 
-Here are some ideas to get you started:
+>Certifitations:
+1. AWS Solution Architect
+2. Cisco Networking Basics 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> Languages:
+ 1. EN
+ 2. FR
+ 3. RU
+
+- 🔭 I’m currently working on my profile
+- 🌱 I’m currently learning Front-End Developement
+- 👯 I’m looking to collaborate on everything
+- 🤔 I’m looking for help with JS
+- 💬 Ask me about anything
+- 📫 How to reach me: here
+- 😄 Pronouns: me
+- ⚡ Fun fact: no fun

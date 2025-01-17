@@ -32,4 +32,4 @@
   - 😄 Pronouns: me
   - ⚡ Fun fact: no fun
 
-    ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=A-SHA256&show_icons=true&hide_title=true&count_private=true&bg_color=000000&title_color=ffffff&text_color=ffffff)
+    ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=A-SHA256&show_icons=true&hide_title=true&count_private=true&bg_color=0000FF&title_color=ffffff&text_color=ffffff)
